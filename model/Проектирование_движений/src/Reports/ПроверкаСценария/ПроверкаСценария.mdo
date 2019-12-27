@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d88d131e-59f5-41a0-a631-40315aaf30d6">
+  <producedTypes>
+    <objectType typeId="e59e78ed-51b9-4d9e-bf9d-112c6b0f5311" valueTypeId="27f7949f-6b9c-431f-95bc-75ab9fe044a1"/>
+    <managerType typeId="07464a9c-90fa-48c9-a240-f757b991d5b1" valueTypeId="801ece49-df06-4057-86aa-604898efaab1"/>
+  </producedTypes>
+  <name>ПроверкаСценария</name>
+  <synonym>
+    <key>ru</key>
+    <value>Проверка сценария</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <mainDataCompositionSchema>Report.ПроверкаСценария.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <templates uuid="72a95273-ce2f-4e3e-b57c-e33f3570611d">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+</mdclass:Report>
